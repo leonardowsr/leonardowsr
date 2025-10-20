@@ -1,6 +1,6 @@
 - 👋 Hi, I’m leonardo
-- 👀 I’m interested in fullstack programmer
-- 🌱 I’m currently learning nodejs
+- 👀 I’m a Fullstack Developer
+- 🌱 I’m currently learning queues and devops
 
 <!---
 leonardowsr/leonardowsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
