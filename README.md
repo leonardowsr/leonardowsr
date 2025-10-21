@@ -1,6 +1,6 @@
 - 👋 Hi, I’m leonardo
 - 👀 I’m a Fullstack Developer
-- 🌱 I’m currently learning queues and devops
+- 🌱 I’m currently learning about devops
 
 <!---
 leonardowsr/leonardowsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
