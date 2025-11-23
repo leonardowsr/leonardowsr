@@ -1,8 +1,45 @@
-- 👋 Hi, I’m leonardo
-- 👀 I’m a Fullstack Developer
-- 🌱 I’m currently learning about system design with focus backend
+# 👋 Hi, I'm Leonardo, a full stack developer
 
-<!---
-leonardowsr/leonardowsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Currently leveling up my knowledge in **system design**, especially backend architecture.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+- **React**
+- **Next.js**
+- TailwindCSS
+- Material UI
+...
+
+### ⚙️ Backend
+- **Node.js**
+- **GraphQL**
+- **NestJS**
+- Koa.js
+...
+
+### 🗄 Databases & Storage
+- PostgreSQL
+- MongoDB
+- Redis
+- Supabase
+...
+---
+
+## 🌱 Currently Learning
+
+- Distributed systems  
+- Event-driven architecture & queue-based systems  
+- More about design system
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/leonardo-wilson/
+
+---
+
+> _"Good architecture is not about complexity — it's about clarity, scalability, and intent."_
